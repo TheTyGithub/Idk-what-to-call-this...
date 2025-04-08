@@ -1,2 +1,2 @@
 # Idk-what-to-call-this...
-A Simple Programing language made in about a hour.
+(Didn't work) A Simple Programing language made in about a hour.
